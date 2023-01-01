@@ -1,0 +1,7 @@
+export const GlobalFontsize = {
+  INPUT_FONT_SIZE: 16,
+  INPUT_FONT_SIZE_20: 20,
+  INPUT_FONT_SIZE_18: 18,
+  INPUT_LABEL_FONT: 12,
+  INPUT_LABEL_FONT_16: 16,
+};
